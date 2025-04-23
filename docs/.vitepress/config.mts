@@ -33,7 +33,7 @@ export default defineConfig({
         items: [
           { text: "Вступ", link: "/intro/README" },
           {
-            text: "Розроблення загальних вимог до системи",
+            text: "Система аналізу медіа контенту",
             items: [
               { text: "Аналіз предметної області", link: "/requirements/state-of-the-art" },
               {
