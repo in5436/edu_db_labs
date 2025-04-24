@@ -211,23 +211,23 @@ Tokenization [[20]](#link20)
 
 ## Посилання
 
-1. <a name="link1" href="http://um.co.ua/14/14-3/14-38010.html">Моніторинг</a>
-2. <a name="link2" href="https://uk.wikipedia.org/wiki/%D0%A8%D1%82%D1%83%D1%87%D0%BD%D0%B8%D0%B9_%D1%96%D0%BD%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D1%82">Штучний інтелект</a>
-3. <a name="link3" href="https://apeps.kpi.ua/vidi-programnoho-zabezpechenia">Програмне забезпечення</a>
-4. <a name="link4" href="https://avtovsamare.ru/uk/reputacionnyi-menedzhment-ponyatie-i-celi-osnovnye-problemy/">Репутаційний менеджмент</a>
-5. <a name="link5" href="https://shorturl.at/rsER0">Багатоканальна платформа</a>
-6. <a name="link6" href="https://site-line.com.ua/semantichnij-analiz-tekstu-shcho-tse-take">Семантичний аналіз</a>
-7. <a name="link7" href="https://shorturl.at/mpFNR">API</a>
-8. <a name="link8" href="https://shorturl.at/aqELW">Сумісність</a>
-9. <a name="link9" href="https://prjctr.com/mag/uxui-questions">UI</a>
-10. <a name="link10" href="https://www.determ.com/">Determ</a>
-11. <a name="link11" href="https://youscan.io/">Youscan</a>
-12. <a name="link12" href="https://brand24.com/">Brand24</a>
-13. <a name="link13" href="https://www.meltwater.com/en">Meltwater</a>
-14. <a name="link14" href="https://promo.semantrum.net/uk/golovna/">Semantrum</a>
-15. <a name="link15" href="https://semanticforce.ai/en">Semanticforce</a>
-16. <a name="link16" href="https://chatbotslife.com/natural-language-principles-65e88e20b94">Natural Language Principles</a>
-17. <a name="link17" href="https://data-flair.training/blogs/text-mining/">Text Mining</a>
-18. <a name="link18" href="https://vue.gov.ua/%D0%9A%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82-%D0%B0%D0%BD%D0%B0%D0%BB%D1%96%D0%B7">Етапи контент-аналізу</a>
-19. <a name="link19" href="https://www.datasciencecentral.com/difference-between-data-analysis-and-statistical-analysis/">Statistical Analysis</a>
-20. <a name="link20" href="https://smltar.com/tokenization.html">Tokenization</a>
+1. <a name="#link1" href="http://um.co.ua/14/14-3/14-38010.html">Моніторинг</a>
+2. <a name="#link2" href="https://uk.wikipedia.org/wiki/%D0%A8%D1%82%D1%83%D1%87%D0%BD%D0%B8%D0%B9_%D1%96%D0%BD%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D1%82">Штучний інтелект</a>
+3. <a name="#link3" href="https://apeps.kpi.ua/vidi-programnoho-zabezpechenia">Програмне забезпечення</a>
+4. <a name="#link4" href="https://avtovsamare.ru/uk/reputacionnyi-menedzhment-ponyatie-i-celi-osnovnye-problemy/">Репутаційний менеджмент</a>
+5. <a name="#link5" href="https://shorturl.at/rsER0">Багатоканальна платформа</a>
+6. <a name="#link6" href="https://site-line.com.ua/semantichnij-analiz-tekstu-shcho-tse-take">Семантичний аналіз</a>
+7. <a name="#link7" href="https://shorturl.at/mpFNR">API</a>
+8. <a name="#link8" href="https://shorturl.at/aqELW">Сумісність</a>
+9. <a name="#link9" href="https://prjctr.com/mag/uxui-questions">UI</a>
+10. <a name="#link10" href="https://www.determ.com/">Determ</a>
+11. <a name="#link11" href="https://youscan.io/">Youscan</a>
+12. <a name="#link12" href="https://brand24.com/">Brand24</a>
+13. <a name="#link13" href="https://www.meltwater.com/en">Meltwater</a>
+14. <a name="#link14" href="https://promo.semantrum.net/uk/golovna/">Semantrum</a>
+15. <a name="#link15" href="https://semanticforce.ai/en">Semanticforce</a>
+16. <a name="#link16" href="https://chatbotslife.com/natural-language-principles-65e88e20b94">Natural Language Principles</a>
+17. <a name="#link17" href="https://data-flair.training/blogs/text-mining/">Text Mining</a>
+18. <a name="#link18" href="https://vue.gov.ua/%D0%9A%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82-%D0%B0%D0%BD%D0%B0%D0%BB%D1%96%D0%B7">Етапи контент-аналізу</a>
+19. <a name="#link19" href="https://www.datasciencecentral.com/difference-between-data-analysis-and-statistical-analysis/">Statistical Analysis</a>
+20. <a name="#link20" href="https://smltar.com/tokenization.html">Tokenization</a>
