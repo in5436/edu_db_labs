@@ -5,31 +5,31 @@
 ## Запуск сервера
 
 <p align="center">
-    <img src="./media/start.png">
+    <img src="./media/begin.png">
 </p>
 
 ## POST /feedback
 
 <p align="center">
-    <img src="./media/post.png">
+    <img src="./media/pt.png">
 </p>
 
 ## PATCH /feedback/:id
 
 <p align="center">
-    <img src="./media/patch.png">
+    <img src="./media/ptch.png">
 </p>
 
 ## GET /feedback/:id
 
 <p align="center">
-    <img src="./media/get.png">
+    <img src="./media/gt.png">
 </p>
 
 ## DELETE /feedback/:id
 
 <p align="center">
-    <img src="./media/delete.png">
+    <img src="./media/dlt.png">
 </p>
 
 ## EXCEPTION: User was not found
@@ -41,11 +41,11 @@
 ## EXCEPTION: Feedback was not found
 
 <p align="center">
-    <img src="./media/ex-feedback.png">
+    <img src="./media/ex-fdb.png">
 </p>
 
 ## EXCEPTION: Media request was not found
 
 <p align="center">
-    <img src="./media/ex-request.png">
+    <img src="./media/ex-req.png">
 </p>
