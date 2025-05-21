@@ -56,7 +56,7 @@ export default defineConfig({
           },
           {
             text: "Permission DB — Структура та реалізація",
-            link: "../src/sql/README",
+            link: "/src/sql/README",
           },
           {
             text: "Тестування працездатності системи",
