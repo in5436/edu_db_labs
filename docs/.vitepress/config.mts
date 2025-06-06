@@ -55,8 +55,8 @@ export default defineConfig({
             link: "/software/README",
           },
           {
-            text: "Permission DB — Структура та реалізація",
-            link: "/src/sql/",
+            text: "Реалізація інформаційного та програмного забезпечення",
+            link: "/src/sql/media_request_db_project_complete",
           },
           {
             text: "Тестування працездатності системи",
@@ -71,7 +71,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: "github", link: "https://github.com/Shablo522/edu_db_labs" },
+      { icon: "github", link: "https://github.com/in5436/edu_db_labs" },
     ],
   },
 
