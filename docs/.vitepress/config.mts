@@ -56,7 +56,7 @@ export default defineConfig({
           },
           {
             text: "Реалізація об'єктно-реляційного відображення",
-            link: "/src/sql/media_request_db_project_complete",
+            link: "/src/media_request_db_project_complete",
           },
           {
             text: "Тестування працездатності системи",
