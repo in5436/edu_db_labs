@@ -1,7 +1,6 @@
 ## SQL: create_media_request_db.sql
 
 ```sql
--- media-request-db-project/sql/create_media_request_db.sql
 
 -- 1. Створити схему (якщо не існує)
 CREATE DATABASE IF NOT EXISTS media_request_db;
