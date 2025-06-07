@@ -1,4 +1,4 @@
-## 2. Підключення до БД: DatabaseConnection.java
+## 1. Підключення до БД: DatabaseConnection.java
 
 ```java
 // media-request-db-project/src/com/example/util/DatabaseConnection.java
@@ -44,7 +44,7 @@ public class DatabaseConnection {
 
 ---
 
-## 3. POJO-модель: MediaRequest.java
+## 2. POJO-модель: MediaRequest.java
 
 ```java
 // media-request-db-project/src/com/example/model/MediaRequest.java
@@ -155,7 +155,7 @@ public class MediaRequest {
 
 ---
 
-## 4. DAO-інтерфейс: MediaRequestDAO.java
+## 3. DAO-інтерфейс: MediaRequestDAO.java
 
 ```java
 // media-request-db-project/src/com/example/dao/MediaRequestDAO.java
@@ -182,7 +182,7 @@ public interface MediaRequestDAO {
 
 ---
 
-## 5. Реалізація DAO: MediaRequestDAOImpl.java
+## 4. Реалізація DAO: MediaRequestDAOImpl.java
 
 ```java
 // media-request-db-project/src/com/example/dao/MediaRequestDAOImpl.java
@@ -306,7 +306,7 @@ public class MediaRequestDAOImpl implements MediaRequestDAO {
 
 ---
 
-## 6. Демонстрація: Main.java
+## 5. Демонстрація: Main.java
 
 ```java
 // media-request-db-project/src/com/example/Main.java
