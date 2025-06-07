@@ -1,6 +1,3 @@
-```sql
--- media-request-db-project/sql/create_media_request_db.sql
-
 -- 1. Створити схему (якщо не існує)
 CREATE DATABASE IF NOT EXISTS media_request_db;
 
@@ -20,4 +17,3 @@ CREATE TABLE IF NOT EXISTS media_request (
     user_id INT,                                  -- Логічне посилання на користувача
     source_id INT                                 -- Логічне посилання на джерело
 );
-```
