@@ -5,7 +5,6 @@
 ## 1. SQL: create_media_request_db.sql
 
 ```sql
--- media-request-db-project/sql/create_media_request_db.sql
 
 -- 1. Створити схему (якщо не існує)
 CREATE DATABASE IF NOT EXISTS media_request_db;
@@ -38,7 +37,6 @@ CREATE TABLE IF NOT EXISTS media_request (
 ## 2. Підключення до БД: DatabaseConnection.java
 
 ```java
-// media-request-db-project/src/com/example/util/DatabaseConnection.java
 package com.example.util;
 
 import java.sql.Connection;
@@ -84,7 +82,6 @@ public class DatabaseConnection {
 ## 3. POJO-модель: MediaRequest.java
 
 ```java
-// media-request-db-project/src/com/example/model/MediaRequest.java
 package com.example.model;
 
 import java.sql.Timestamp;
@@ -195,7 +192,6 @@ public class MediaRequest {
 ## 4. DAO-інтерфейс: MediaRequestDAO.java
 
 ```java
-// media-request-db-project/src/com/example/dao/MediaRequestDAO.java
 package com.example.dao;
 
 import com.example.model.MediaRequest;
@@ -222,7 +218,6 @@ public interface MediaRequestDAO {
 ## 5. Реалізація DAO: MediaRequestDAOImpl.java
 
 ```java
-// media-request-db-project/src/com/example/dao/MediaRequestDAOImpl.java
 package com.example.dao;
 
 import com.example.model.MediaRequest;
@@ -346,7 +341,6 @@ public class MediaRequestDAOImpl implements MediaRequestDAO {
 ## 6. Демонстрація: Main.java
 
 ```java
-// media-request-db-project/src/com/example/Main.java
 package com.example;
 
 import com.example.dao.MediaRequestDAO;
