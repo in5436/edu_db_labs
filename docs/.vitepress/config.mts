@@ -55,7 +55,7 @@ export default defineConfig({
             link: "/software/README",
           },
           {
-            text: "Реалізація інформаційного та програмного забезпечення",
+            text: "Реалізація об'єктно-реляційного відображення",
             link: "/src/sql/media_request_db_project_complete",
           },
           {
